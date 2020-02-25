@@ -1,0 +1,15 @@
+.fieldset {
+  margin-bottom: 20px;
+}
+
+.input--field--begin {
+  margin-bottom: 10px;
+}
+
+.input--field--end {
+  margin-bottom: 0;
+}
+
+#corrected--input {
+  width: 34px;
+}
