@@ -4,6 +4,7 @@
 
 .input--field--begin {
   margin-bottom: 10px;
+  display: block;
 }
 
 .input--field--end {
